@@ -3,7 +3,7 @@
 # Antigravity Zero-Token Suite - Instalador Automático Multiplataforma (macOS / Linux)
 # ==============================================================================
 # Autor: Jonnathan Gálvez
-# Repositorio: https://github.com/jonncrack/antigravity-zero-token-suite
+# Repositorio: https://github.com/jonncrack/google-antigravity-zero-token-suite
 # ==============================================================================
 
 set -e
