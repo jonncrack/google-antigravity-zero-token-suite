@@ -46,7 +46,7 @@ La IA **únicamente recibe el extracto quirúrgico, la celda buscada o el resume
 Clona el repositorio y ejecuta el instalador automático:
 
 ```bash
-git clone https://github.com/jonncrack/antigravity-zero-token-suite.git
+git clone https://github.com/jonncrack/google-antigravity-zero-token-suite.git
 cd antigravity-zero-token-suite
 ./scripts/install.sh
 ```
@@ -55,7 +55,7 @@ cd antigravity-zero-token-suite
 Abre PowerShell y ejecuta:
 
 ```powershell
-git clone https://github.com/jonncrack/antigravity-zero-token-suite.git
+git clone https://github.com/jonncrack/google-antigravity-zero-token-suite.git
 cd antigravity-zero-token-suite
 powershell -ExecutionPolicy Bypass -File .\scripts\install.ps1
 ```
