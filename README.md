@@ -1,4 +1,4 @@
-# 🚀 Antigravity Zero-Token Suite
+# 🚀 Google Antigravity Zero-Token Suite
 
 > **Suite oficial de 8 Custom Skills y Reglas de Orquestación para Google Antigravity diseñadas para procesar archivos masivos (PDFs, Excels, Word, DOM, Audios, Videos, ZIPs y OCR) a 0 tokens de API externos mediante offloading headless local.**
 
